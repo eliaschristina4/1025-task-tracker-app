@@ -1,11 +1,12 @@
-# header format
+# The largest heading
+## The second largest heading
+###### The smallest heading
 
+Can I just type? 
+
+- list
 - 
-- us
-- ve
-- za
 
 # other section
 
-- business
-- double check this formatting
+- list
